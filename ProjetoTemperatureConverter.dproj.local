@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/03/17 15:34:15.000.197,=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2025/03/17 15:37:33.000.929,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\views\view.converter.pas</Transaction>
+    <Transaction>2025/03/17 15:37:33.000.929,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\views\view.converter.dfm</Transaction>
+    <Transaction>2025/03/17 15:37:49.000.087,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Project.dproj</Transaction>
+    <Transaction>2025/03/17 15:38:21.000.951,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Project.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoTemperature.dproj</Transaction>
+    <Transaction>2025/03/17 15:38:28.000.055,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoTemperature.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Projeto.dproj</Transaction>
+    <Transaction>2025/03/17 15:38:57.000.467,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\Projeto.dproj=C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoTemperatureConverter.dproj</Transaction>
+    <Transaction>2025/03/17 15:39:16.000.269,C:\Users\EMANUEL\Documents\Embarcadero\Studio\Projects\ProjetoTemperatureConverter.dproj=C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\ProjetoTemperatureConverter.dproj</Transaction>
+    <Transaction>2025/03/18 13:10:52.075,=C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\Unit1.pas</Transaction>
+    <Transaction>2025/03/18 13:13:52.652,C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\views\view.alert.pas=C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\Unit1.pas</Transaction>
+    <Transaction>2025/03/18 13:13:52.652,C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\views\view.alert.dfm=C:\Users\EMANUEL\Desktop\+\Projeto  Conversor de Temperatura\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
