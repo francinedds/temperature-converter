@@ -1,1 +1,2 @@
-# temperature-converter
+# Temperature Converter
+- Inspirado no canal @DJOamen
